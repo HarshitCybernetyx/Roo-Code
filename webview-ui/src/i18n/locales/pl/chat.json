@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Automatyczne zatwierdzanie:",
 		"none": "Brak",
-		"description": "Automatyczne zatwierdzanie pozwala Roo Code wykonywać działania bez pytania o pozwolenie. Włącz tylko dla działań, którym w pełni ufasz. Bardziej szczegółowa konfiguracja dostępna w <settingsLink>Ustawieniach</settingsLink>.",
+		"description": "Automatyczne zatwierdzanie pozwala Xapian Coder wykonywać działania bez pytania o pozwolenie. Włącz tylko dla działań, którym w pełni ufasz. Bardziej szczegółowa konfiguracja dostępna w <settingsLink>Ustawieniach</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Czytaj pliki i katalogi",
@@ -208,8 +208,8 @@
 		"seconds": "{{count}} s"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.10 wydany",
-		"description": "Roo Code 3.10 przynosi potężne usprawnienia produktywności!",
+		"title": "🎉 Xapian Coder 3.10 wydany",
+		"description": "Xapian Coder 3.10 przynosi potężne usprawnienia produktywności!",
 		"whatsNew": "Co nowego",
 		"feature1": "Sugerowane odpowiedzi na pytania",
 		"feature2": "Ulepszenia obsługi dużych plików",

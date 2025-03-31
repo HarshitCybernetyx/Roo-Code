@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Otomatik-onay:",
 		"none": "Hiçbiri",
-		"description": "Otomatik onay, Roo Code'un izin istemeden işlemler gerçekleştirmesine olanak tanır. Yalnızca tamamen güvendiğiniz eylemler için etkinleştirin. Daha detaylı yapılandırma <settingsLink>Ayarlar</settingsLink>'da mevcuttur.",
+		"description": "Otomatik onay, Xapian Coder'un izin istemeden işlemler gerçekleştirmesine olanak tanır. Yalnızca tamamen güvendiğiniz eylemler için etkinleştirin. Daha detaylı yapılandırma <settingsLink>Ayarlar</settingsLink>'da mevcuttur.",
 		"actions": {
 			"readFiles": {
 				"label": "Dosyaları ve dizinleri oku",
@@ -208,8 +208,8 @@
 		"seconds": "{{count}}sn"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.10 Yayınlandı",
-		"description": "Roo Code 3.10 güçlü üretkenlik iyileştirmeleri getiriyor!",
+		"title": "🎉 Xapian Coder 3.10 Yayınlandı",
+		"description": "Xapian Coder 3.10 güçlü üretkenlik iyileştirmeleri getiriyor!",
 		"whatsNew": "Yenilikler",
 		"feature1": "Sorulara önerilen yanıtlar",
 		"feature2": "Geliştirilmiş büyük dosya işleme",

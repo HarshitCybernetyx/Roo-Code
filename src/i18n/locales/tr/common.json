@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Roo Code",
+		"name": "Xapian Coder",
 		"description": "Düzenleyicinizde tam bir AI geliştirici ekibi."
 	},
 	"number_format": {
@@ -87,7 +87,7 @@
 		"enter_valid_path": "Lütfen geçerli bir yol girin"
 	},
 	"input": {
-		"task_prompt": "Roo ne yapsın?",
+		"task_prompt": "Xapian Coder ne yapsın?",
 		"task_placeholder": "Görevini buraya yaz"
 	}
 }

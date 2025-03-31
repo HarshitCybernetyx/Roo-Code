@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Tự động phê duyệt:",
 		"none": "Không",
-		"description": "Tự động phê duyệt cho phép Roo Code thực hiện hành động mà không cần xin phép. Chỉ bật cho các hành động bạn hoàn toàn tin tưởng. Cấu hình chi tiết hơn có sẵn trong <settingsLink>Cài đặt</settingsLink>.",
+		"description": "Tự động phê duyệt cho phép Xapian Coder thực hiện hành động mà không cần xin phép. Chỉ bật cho các hành động bạn hoàn toàn tin tưởng. Cấu hình chi tiết hơn có sẵn trong <settingsLink>Cài đặt</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Đọc tệp và thư mục",
@@ -208,8 +208,8 @@
 		"seconds": "{{count}} giây"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.10 Đã phát hành",
-		"description": "Roo Code 3.10 mang đến những cải tiến năng suất mạnh mẽ!",
+		"title": "🎉 Xapian Coder 3.10 Đã phát hành",
+		"description": "Xapian Coder 3.10 mang đến những cải tiến năng suất mạnh mẽ!",
 		"whatsNew": "Có gì mới",
 		"feature1": "Gợi ý phản hồi cho câu hỏi",
 		"feature2": "Cải thiện xử lý tệp tin lớn",

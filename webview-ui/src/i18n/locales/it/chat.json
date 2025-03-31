@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Auto-approvazione:",
 		"none": "Nessuna",
-		"description": "L'auto-approvazione permette a Roo Code di eseguire azioni senza chiedere permesso. Abilita solo per azioni di cui ti fidi completamente. Configurazione più dettagliata disponibile nelle <settingsLink>Impostazioni</settingsLink>.",
+		"description": "L'auto-approvazione permette a Xapian Coder di eseguire azioni senza chiedere permesso. Abilita solo per azioni di cui ti fidi completamente. Configurazione più dettagliata disponibile nelle <settingsLink>Impostazioni</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Leggi file e directory",
@@ -208,8 +208,8 @@
 		"seconds": "{{count}}s"
 	},
 	"announcement": {
-		"title": "🎉 Rilasciato Roo Code 3.10",
-		"description": "Roo Code 3.10 porta potenti miglioramenti di produttività!",
+		"title": "🎉 Rilasciato Xapian Coder 3.10",
+		"description": "Xapian Coder 3.10 porta potenti miglioramenti di produttività!",
 		"whatsNew": "Novità",
 		"feature1": "Risposte suggerite alle domande",
 		"feature2": "Gestione migliorata dei file di grandi dimensioni",

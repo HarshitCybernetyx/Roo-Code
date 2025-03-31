@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "自动批准:",
 		"none": "无",
-		"description": "自动批准允许Roo Code无需请求许可即可执行操作。仅为您完全信任的操作启用。更详细的配置可在<settingsLink>设置</settingsLink>中查看。",
+		"description": "自动批准允许Xapian Coder无需请求许可即可执行操作。仅为您完全信任的操作启用。更详细的配置可在<settingsLink>设置</settingsLink>中查看。",
 		"actions": {
 			"readFiles": {
 				"label": "读取文件和目录",
@@ -208,8 +208,8 @@
 		"seconds": "{{count}}秒"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.10 已发布",
-		"description": "Roo Code 3.10带来强大的生产力提升！",
+		"title": "🎉 Xapian Coder 3.10 已发布",
+		"description": "Xapian Coder 3.10带来强大的生产力提升！",
 		"whatsNew": "新特性",
 		"feature1": "问题的建议回答",
 		"feature2": "改进的大文件处理",

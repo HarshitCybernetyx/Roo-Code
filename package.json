@@ -1,8 +1,8 @@
 {
-	"name": "roo-cline",
-	"displayName": "Roo Code (prev. Roo Cline)",
+	"name": "xapian-coder",
+	"displayName": "Xapian Coder",
 	"description": "A whole dev team of AI agents in your editor.",
-	"publisher": "RooVeterinaryInc",
+	"publisher": "Cybernetyx",
 	"version": "3.10.5",
 	"icon": "assets/icons/icon.png",
 	"galleryBanner": {
@@ -14,7 +14,7 @@
 		"node": "20.18.1"
 	},
 	"author": {
-		"name": "Roo Code"
+		"name": "Xapian Coder"
 	},
 	"repository": {
 		"type": "git",
@@ -42,8 +42,7 @@
 		"sonnet",
 		"ai",
 		"llama",
-		"roo code",
-		"roocode"
+		"xapian coder"
 	],
 	"activationEvents": [
 		"onLanguage",
@@ -54,18 +53,18 @@
 		"submenus": [
 			{
 				"id": "roo-code.contextMenu",
-				"label": "Roo Code"
+				"label": "Xapian Coder"
 			},
 			{
 				"id": "roo-code.terminalMenu",
-				"label": "Roo Code"
+				"label": "Xapian Coder"
 			}
 		],
 		"viewsContainers": {
 			"activitybar": [
 				{
 					"id": "roo-cline-ActivityBar",
-					"title": "Roo Code",
+					"title": "Xapian Coder",
 					"icon": "assets/icons/icon.svg"
 				}
 			]
@@ -118,32 +117,32 @@
 			{
 				"command": "roo-cline.openInNewTab",
 				"title": "Open In New Tab",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			},
 			{
 				"command": "roo-cline.explainCode",
 				"title": "Explain Code",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			},
 			{
 				"command": "roo-cline.fixCode",
 				"title": "Fix Code",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			},
 			{
 				"command": "roo-cline.improveCode",
 				"title": "Improve Code",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			},
 			{
 				"command": "roo-cline.addToContext",
 				"title": "Add To Context",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			},
 			{
 				"command": "roo-cline.newTask",
 				"title": "New Task",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			},
 			{
 				"command": "roo-cline.terminalAddToContext",
@@ -173,7 +172,7 @@
 			{
 				"command": "roo-cline.setCustomStoragePath",
 				"title": "Set Custom Storage Path",
-				"category": "Roo Code"
+				"category": "Xapian Coder"
 			}
 		],
 		"menus": {
@@ -268,7 +267,7 @@
 			]
 		},
 		"configuration": {
-			"title": "Roo Code",
+			"title": "Xapian Coder",
 			"properties": {
 				"roo-cline.allowedCommands": {
 					"type": "array",

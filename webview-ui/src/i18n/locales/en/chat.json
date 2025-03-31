@@ -1,5 +1,5 @@
 {
-	"greeting": "What can Roo do for you?",
+	"greeting": "What can Xapian Coder do for you?",
 	"task": {
 		"title": "Task",
 		"seeMore": "See more",
@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Auto-approve:",
 		"none": "None",
-		"description": "Auto-approve allows Roo Code to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>.",
+		"description": "Auto-approve allows Xapian Coder to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Read files and directories",
@@ -204,8 +204,8 @@
 		}
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.10 Released",
-		"description": "Roo Code 3.10 brings powerful productivity enhancements!",
+		"title": "🎉 Xapian Coder 3.10 Released",
+		"description": "Xapian Coder 3.10 brings powerful productivity enhancements!",
 		"whatsNew": "What's New",
 		"feature1": "Suggested responses to questions",
 		"feature2": "Improved large file handling",
