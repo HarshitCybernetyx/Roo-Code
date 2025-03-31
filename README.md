@@ -23,7 +23,7 @@ English • [Català](locales/ca/README.md) • [Deutsch](locales/de/README.md) 
 <br>
 
 <div align="center">
-<h1>Code Agent</h1>
+<h1>Xapian Coder</h1>
 
 <!-- Marketplace and review links removed -->
 <a href="https://github.com/YourUsername/YourRepoName/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><img src="https://img.shields.io/badge/Feature%20Requests-yellow?style=for-the-badge" alt="Feature Requests"></a>
@@ -31,7 +31,7 @@ English • [Català](locales/ca/README.md) • [Deutsch](locales/de/README.md) 
 
 </div>
 
-**Code Agent** is an AI-powered **autonomous coding agent** that lives in your editor. It can:
+**Xapian Coder** is an AI-powered **autonomous coding agent** that lives in your editor. It can:
 
 - Communicate in natural language
 - Read and write files directly in your workspace
@@ -40,7 +40,7 @@ English • [Català](locales/ca/README.md) • [Deutsch](locales/de/README.md) 
 - Integrate with any OpenAI-compatible or custom API/model
 - Adapt its “personality” and capabilities through **Custom Modes**
 
-Whether you’re seeking a flexible coding partner, a system architect, or specialized roles like a QA engineer or product manager, the Code Agent can help you build software more efficiently.
+Whether you’re seeking a flexible coding partner, a system architect, or specialized roles like a QA engineer or product manager, the Xapian Coder can help you build software more efficiently.
 
 Check out the [CHANGELOG](CHANGELOG.md) for detailed updates and fixes.
 
@@ -56,7 +56,7 @@ Version 3.10 brings powerful productivity enhancements!
 
 ---
 
-## What Can This Code Agent Do?
+## What Can This Xapian Coder Do?
 
 - 🚀 **Generate Code** from natural language descriptions
 - 🔧 **Refactor & Debug** existing code
@@ -67,7 +67,7 @@ Version 3.10 brings powerful productivity enhancements!
 
 ## Quick Start
 
-1. [Install the Code Agent](https://docs.example.com/getting-started/installing) <!-- Placeholder Link -->
+1. [Install the Xapian Coder](https://docs.example.com/getting-started/installing) <!-- Placeholder Link -->
 2. [Connect Your AI Provider](https://docs.example.com/getting-started/connecting-api-provider) <!-- Placeholder Link -->
 3. [Try Your First Task](https://docs.example.com/getting-started/your-first-task) <!-- Placeholder Link -->
 
@@ -75,7 +75,7 @@ Version 3.10 brings powerful productivity enhancements!
 
 ### Multiple Modes
 
-The Code Agent adapts to your needs with specialized [modes](https://docs.example.com/basic-usage/using-modes): <!-- Placeholder Link -->
+The Xapian Coder adapts to your needs with specialized [modes](https://docs.example.com/basic-usage/using-modes): <!-- Placeholder Link -->
 
 - **Code Mode:** For general-purpose coding tasks
 - **Architect Mode:** For planning and technical leadership
@@ -85,18 +85,18 @@ The Code Agent adapts to your needs with specialized [modes](https://docs.exampl
 
 ### Smart Tools
 
-The Code Agent comes with powerful [tools](https://docs.example.com/basic-usage/how-tools-work) that can: <!-- Placeholder Link -->
+The Xapian Coder comes with powerful [tools](https://docs.example.com/basic-usage/how-tools-work) that can: <!-- Placeholder Link -->
 
 - Read and write files in your project
 - Execute commands in your VS Code terminal
 - Control a web browser
 - Use external tools via [MCP (Model Context Protocol)](https://docs.example.com/advanced-usage/mcp) <!-- Placeholder Link -->
 
-MCP extends the Code Agent's capabilities by allowing you to add unlimited custom tools. Integrate with external APIs, connect to databases, or create specialized development tools - MCP provides the framework to expand the Code Agent's functionality to meet your specific needs.
+MCP extends the Xapian Coder's capabilities by allowing you to add unlimited custom tools. Integrate with external APIs, connect to databases, or create specialized development tools - MCP provides the framework to expand the Xapian Coder's functionality to meet your specific needs.
 
 ### Customization
 
-Make the Code Agent work your way with:
+Make the Xapian Coder work your way with:
 
 - [Custom Instructions](https://docs.example.com/advanced-usage/custom-instructions) for personalized behavior <!-- Placeholder Link -->
 - [Custom Modes](https://docs.example.com/advanced-usage/custom-modes) for specialized tasks <!-- Placeholder Link -->
@@ -140,7 +140,7 @@ npm run dev
 ```
 
 4. **Debug**:
-   Press `F5` (or **Run** → **Start Debugging**) in VSCode to open a new session with the Code Agent loaded.
+   Press `F5` (or **Run** → **Start Debugging**) in VSCode to open a new session with the Xapian Coder loaded.
 
 Changes to the webview will appear immediately. Changes to the core extension will require a restart of the extension host.
 
@@ -162,7 +162,7 @@ We use [changesets](https://github.com/changesets/changesets) for versioning and
 
 ## Disclaimer
 
-**Please note** that The Project Maintainers do **not** make any representations or warranties regarding any code, models, or other tools provided or made available in connection with the Code Agent, any associated third-party tools, or any resulting outputs. You assume **all risks** associated with the use of any such tools or outputs; such tools are provided on an **"AS IS"** and **"AS AVAILABLE"** basis. Such risks may include, without limitation, intellectual property infringement, cyber vulnerabilities or attacks, bias, inaccuracies, errors, defects, viruses, downtime, property loss or damage, and/or personal injury. You are solely responsible for your use of any such tools or outputs (including, without limitation, the legality, appropriateness, and results thereof).
+**Please note** that The Project Maintainers do **not** make any representations or warranties regarding any code, models, or other tools provided or made available in connection with the Xapian Coder, any associated third-party tools, or any resulting outputs. You assume **all risks** associated with the use of any such tools or outputs; such tools are provided on an **"AS IS"** and **"AS AVAILABLE"** basis. Such risks may include, without limitation, intellectual property infringement, cyber vulnerabilities or attacks, bias, inaccuracies, errors, defects, viruses, downtime, property loss or damage, and/or personal injury. You are solely responsible for your use of any such tools or outputs (including, without limitation, the legality, appropriateness, and results thereof).
 
 ---
 
@@ -180,4 +180,4 @@ We love community contributions! Get started by reading our [CONTRIBUTING.md](CO
 
 ---
 
-**Enjoy the Code Agent!** Whether you keep it on a short leash or let it roam autonomously, we can’t wait to see what you build. If you have questions or feature ideas, check out our community channels. Happy coding!
+**Enjoy the Xapian Coder!** Whether you keep it on a short leash or let it roam autonomously, we can’t wait to see what you build. If you have questions or feature ideas, check out our community channels. Happy coding!
